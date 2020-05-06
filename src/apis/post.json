@@ -1,0 +1,102 @@
+{
+  "id": 2794,
+  "date": "2019-12-04T10:58:00",
+  "date_gmt": "2019-12-04T13:58:00",
+  "guid": {
+    "rendered": "http://pet.ufma.br/comp/?p=2794"
+  },
+  "modified": "2019-12-04T10:58:00",
+  "modified_gmt": "2019-12-04T13:58:00",
+  "slug": "tecnicas-de-usabilidade-introducao-a-computacao-enapet-2019",
+  "status": "publish",
+  "type": "post",
+  "link": "https://pet.ufma.br/comp/tecnicas-de-usabilidade-introducao-a-computacao-enapet-2019/",
+  "title": {
+    "rendered": "Técnicas de Usabilidade/Introdução à Computação &#8211; ENAPET 2019"
+  },
+  "content": {
+    "rendered": "<p>No período de 14 à 19 de julho de 2019, ocorreu o Encontro Nacional dos Grupos PET, ao qual tivemos a honra de participar. Foram momentos nos quais tivemos oportunidade de apresentar oficinas, minicursos e de conhecer outros grupos PET, seus integrantes e compartilhar um pouco das nossas atividades. Dentre as atividades realizadas foram ministrados o minicurso &#8220;<span style=\"font-weight: 500;\">Técnicas e conceitos de usabilidade aplicadas na avaliação e desenvolvimento de interfaces e produtos</span>&#8221; e a oficina &#8220;Computação Desplugada &#8211; Pensamento Computacional&#8221;.</p>\n<p>O minicurso tinha por objetivo apresentar técnicas, metodologias e métricas, aplicando-as na avaliação e desenvolvimento de interfaces e produtos. Obtendo como resultados maximizar a produtividades, a satisfação do usuário e minimizar a taxa de erro, ao final da atividade foi aplicada  a dinâmica de prototipação em papel.</p>\n<p>A oficina objetivava introduzir os conceitos básicos da computação, visando introduzir o pensamento computacional nos participantes, como uma forma de tornar essa apresentação à computação mais dinâmica foi feito uma atividade de programação e produção de fluxograma no papel, utilizando como tema Os Vingadores.</p>\n<p>À todos que organizaram o evento, parabéns pela maravilhosa experiência que nos proporcionaram!! E obrigada aos que compareceram no minicurso e na oficina, esperamos que tenham gostado. 🙂</p>\n<p><img class=\"alignnone size-medium wp-image-2798\" src=\"http://pet.ufma.br/comp/wp-content/uploads/2019/12/IMG_20190715_112611-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://pet.ufma.br/comp/wp-content/uploads/2019/12/IMG_20190715_112611-300x225.jpg 300w, https://pet.ufma.br/comp/wp-content/uploads/2019/12/IMG_20190715_112611-768x576.jpg 768w, https://pet.ufma.br/comp/wp-content/uploads/2019/12/IMG_20190715_112611-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /> <img class=\"alignnone size-medium wp-image-2796\" src=\"http://pet.ufma.br/comp/wp-content/uploads/2019/12/IMG_20190715_101049694-300x225.jpg\" alt=\"\" width=\"300\" height=\"225\" srcset=\"https://pet.ufma.br/comp/wp-content/uploads/2019/12/IMG_20190715_101049694-300x225.jpg 300w, https://pet.ufma.br/comp/wp-content/uploads/2019/12/IMG_20190715_101049694-768x576.jpg 768w, https://pet.ufma.br/comp/wp-content/uploads/2019/12/IMG_20190715_101049694-1024x768.jpg 1024w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>No período de 14 à 19 de julho de 2019, ocorreu o Encontro Nacional dos Grupos PET, ao qual tivemos a honra de participar. Foram momentos nos quais tivemos oportunidade de apresentar oficinas, minicursos e de conhecer outros grupos PET,</p>\n",
+    "protected": false
+  },
+  "author": 45,
+  "featured_media": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [
+    1
+  ],
+  "tags": [],
+  "_links": {
+    "self": [
+      {
+        "href": "https://pet.ufma.br/comp/wp-json/wp/v2/posts/2794"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://pet.ufma.br/comp/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://pet.ufma.br/comp/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://pet.ufma.br/comp/wp-json/wp/v2/users/45"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://pet.ufma.br/comp/wp-json/wp/v2/comments?post=2794"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 2,
+        "href": "https://pet.ufma.br/comp/wp-json/wp/v2/posts/2794/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 2799,
+        "href": "https://pet.ufma.br/comp/wp-json/wp/v2/posts/2794/revisions/2799"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://pet.ufma.br/comp/wp-json/wp/v2/media?parent=2794"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://pet.ufma.br/comp/wp-json/wp/v2/categories?post=2794"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://pet.ufma.br/comp/wp-json/wp/v2/tags?post=2794"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}

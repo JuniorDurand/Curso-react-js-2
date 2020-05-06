@@ -17,11 +17,12 @@ const get_posts = async (setData) => {
   }
 };
 
-const get_post = async id => {
+const get_post = async (id, setData) => {
   const url = `https://pet.ufma.br/comp/?rest_route=/wp/v2/posts/${id}`;
   try {
     const response = await fetch(url);
     const json = await response.json();
+    setData(json)
     //console.log(json);
   } catch (error) {
     console.log(error);
